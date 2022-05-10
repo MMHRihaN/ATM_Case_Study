@@ -1,0 +1,1 @@
+This is a java project which was assigned to us as a assignment on How an ATM Machine works based on the findings and analysis of chapter 12 and 13 from the book 'Java How to Program 9th edition by Paul Deitel'
